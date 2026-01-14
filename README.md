@@ -1,9 +1,13 @@
 # 📍 findYourWay
 
 findYourWay est une **plateforme web interactive** qui recense toutes les **églises de France** sur une carte, avec un système d’avis, un forum communautaire et un calendrier d’événements.
+&nbsp;
+
 L’objectif est de permettre à chacun de **trouver, découvrir, partager et interagir** autour des lieux de culte — le tout dans une expérience moderne et communautaire.
 
 🚀 **Hébergement prévu :** Google Cloud
+&nbsp;
+
 🌐 **Domaine :** findyourway.com
 
 ---
@@ -11,11 +15,23 @@ L’objectif est de permettre à chacun de **trouver, découvrir, partager et in
 ## 📌 Fonctionnalités principales
 
 ✅ Carte interactive affichant les églises géolocalisées
+&nbsp;
+
 ✅ Fiches détaillées (nom, adresse, confession, horaires, contact, site web)
+&nbsp;
+
 ✅ Système d’authentification sécurisé
+&nbsp;
+
 ✅ Avis et notes des utilisateurs
+&nbsp;
+
 ✅ Filtrage des églises par critères (branche, localisation, note…)
+&nbsp;
+
 ✅ Forum communautaire pour échanger, poser des questions ou discuter
+&nbsp;
+
 ✅ Calendrier pour événements partagés par les églises (cultes, rencontres, concerts…)
 
 ---
@@ -46,8 +62,14 @@ Ce projet est open source pour encourager les **contributions, améliorations et
 | API                      | RESTful API                    |
 
 ✅ Le choix de React garantit une **interface réactive et modulable**
+&nbsp;
+
 ✅ Leaflet permet une **carte interactive performante et open source**
+&nbsp;
+
 ✅ Node.js/Express facilite le **développement des API backend**
+&nbsp;
+
 ✅ SQL permet une **structure relationnelle robuste** des données
 
 ---
@@ -186,9 +208,17 @@ findYourWay/
 ## 🛠 Standards & bonnes pratiques
 
 ✅ Conventions de nommage claires
+&nbsp;
+
 ✅ Routes RESTful
+&nbsp;
+
 ✅ Gestion des erreurs centralisée
+&nbsp;
+
 ✅ Tests unitaires et d’intégration à venir
+&nbsp;
+
 ✅ Validation des données côté backend et frontend
 
 ---
