@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Taille de la map */
+.leaflet-container {
+    height: 35vh;
+}
+
+.Map-Container{
+    border: solid #819bb7;
+}
